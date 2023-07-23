@@ -13,3 +13,6 @@
 
 ## Используемые инструменты
 `data-lense` `clickhouse`
+
+## Результат работы
+[`data-lense` `clickhouse`](https://datalens.yandex.ru/d82tke2ve2xs2-dashboard-hh)https://datalens.yandex.ru/d82tke2ve2xs2-dashboard-hh

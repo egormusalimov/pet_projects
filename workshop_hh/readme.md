@@ -12,7 +12,7 @@
 - Сведения о cредней зарплате и её динамике;
 
 ## Используемые инструменты
-`data-lense` `clickhouse`
+`datalens` `clickhouse`
 
 ## Результат работы
 [ссылка](https://datalens.yandex/d82tke2ve2xs2)

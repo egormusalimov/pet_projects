@@ -15,4 +15,6 @@
 `data-lense` `clickhouse`
 
 ## Результат работы
-[ссылка](https://datalens.yandex.ru/d82tke2ve2xs2-dashboard-hh)
+[ссылка](https://datalens.yandex/d82tke2ve2xs2)
+
+

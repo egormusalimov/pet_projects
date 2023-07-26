@@ -16,3 +16,6 @@
 ## Используемые библиотеки
 `pandas` `numpy` `datetime` `re`
 
+## Результат работы 
+Дашборд находится по [ссылке](https://datalens.yandex/rmdnoxf68uqwg)
+

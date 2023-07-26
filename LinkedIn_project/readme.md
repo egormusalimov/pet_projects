@@ -14,7 +14,7 @@
 - posted_date - дата публикации вакансии
 - applicants - количество откликов на вакансию.
 ## Используемые библиотеки
-`pandas` `numpy` `datetime` `re`
+`pandas` `numpy` `datetime` `re` `datalens`
 
 ## Результат работы 
 Дашборд находится по [ссылке](https://datalens.yandex/rmdnoxf68uqwg)

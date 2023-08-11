@@ -1,6 +1,6 @@
 # Авторынок Казахстана
 ## Тетрадка
-Тетрадь с корректным отображением графиков находится по [ссылке]([https://nbviewer.org/github/egormusalimov/pet_projects/blob/main/auto_KZ/Auto_kz.ipynb](https://nbviewer.org/github/egormusalimov/pet_projects/blob/fd8ff8a39e13da529f9f008a2eec4fdf058242c4/auto_KZ/Auto_kz%20%281%29.ipynb))
+Тетрадь с корректным отображением графиков находится по [ссылке](https://nbviewer.org/github/egormusalimov/pet_projects/blob/f820f45ee135087fa3b5f16a5c0a30238f04ffb5/auto_KZ/Auto_kz%20%282%29.ipynb)
 
 ## Проект
 Анализпродаж новых автомобилей из Казахстана

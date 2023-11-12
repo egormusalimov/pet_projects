@@ -1,6 +1,6 @@
 # Исследование для НКО "Благотворительная больница"
 ## Тетрадка
-Тетрадь с корректным отображением графиков находится по [ссылке](https://nbviewer.org/github/egormusalimov/pet_projects/blob/f820f45ee135087fa3b5f16a5c0a30238f04ffb5/auto_KZ/Auto_kz%20%282%29.ipynb)
+Тетрадь с корректным отображением графиков находится по [ссылке](https://colab.research.google.com/drive/1IgO4kvJs_LhNdZHba0XOOBq8MVD7DpfF?usp=sharing)
 
 ## Проект
 Анализ рекламных компаний для благотворительной организации
